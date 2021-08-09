@@ -4,6 +4,8 @@ A simple Dockerfile generator to demonstrate how to create a "Fluent" API in C#.
 
 The API Design might not be fully correct, but its an example to create your own Fluent API from scratch.
 
+Following classes are present in this project.
+
 ## `SimpleFluentDockerFileGenerator`
 
 This is a simple basic fluent class, with no interfaces used to guide the user for the order of methods. Due to this, a user can generate invalid dockerfiles using this.
