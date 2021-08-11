@@ -45,6 +45,6 @@ var dockerFile = FluentDockerfileGenerator.CreateBuilder()
 
 This also contains a driver `Program.cs` class to showing the usage of each of the classes.
 
-**Blog Post Coming Soon!!**
+# Blog Post
 
-Contributions or suggestions are always welcome.
+Consider reading [my blog post](https://mitesh1612.github.io/blog/2021/08/11/how-to-design-fluent-api) on how this API was designed and how to write your own Fluent API.
